@@ -1,0 +1,8 @@
+{
+    "editor.language.brackets": [
+
+    ],
+    "workbench.editor.languageDetection": true,
+    "typescript.suggest.classMemberSnippets.enabled": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true
+}
